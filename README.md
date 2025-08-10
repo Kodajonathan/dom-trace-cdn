@@ -27,6 +27,7 @@ To include dom-trace-cdn in your project, simply add the following <script> tag 
 
 Sensitive Field Filtering
 Automatically skips:
-
+```html
 - <input type="password">
 - <input type="email">
+```
