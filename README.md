@@ -1,9 +1,5 @@
 # dom-trace-cdn
 
-## 🛡 Safe Interaction Logger
-
-This script logs user interactions with elements on a web page for analytics, debugging, or usability testing — while preventing sensitive information from being captured.
-
 ## 📋 Requirements
 
 - Bootstrap 5
